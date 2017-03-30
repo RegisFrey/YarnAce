@@ -1,4 +1,4 @@
-define("ace/mode/yarn", ["require", "exports", "module", "ace/lib/oop",
+ace.define("ace/mode/yarn", ["require", "exports", "module", "ace/lib/oop",
   "ace/mode/text", "ace/mode/text_highlight_rules", "ace/mode/behaviour"
 ], function(acequire, exports, module) {
   "use strict";

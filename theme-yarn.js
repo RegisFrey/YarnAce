@@ -1,4 +1,4 @@
-define("ace/theme/yarn", ["acequire", "exports", "module", "ace/lib/dom"],
+ace.define("ace/theme/yarn", ["acequire", "exports", "module", "ace/lib/dom"],
   function(acequire, exports, module) {
 
     exports.isDark = false;

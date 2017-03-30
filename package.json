@@ -1,6 +1,6 @@
 {
   "name": "yarn-brace",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Yarn (dialogue editor) syntax highlighting and theming for Ace (by Alec Holowka)",
   "main": "index.js",
   "repository": "https://github.com/RegisFrey/YarnAce.git",
