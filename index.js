@@ -1,2 +1,2 @@
-require('mode-yarn');
-require('theme-yarn');
+require('./mode-yarn');
+require('./theme-yarn');
