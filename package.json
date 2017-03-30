@@ -1,0 +1,9 @@
+{
+  "name": "yarn-ace",
+  "version": "1.0.0",
+  "description": "Yarn (dialogue editor) syntax highlighting and theming for Ace (by Alec Holowka)",
+  "main": "index.js",
+  "repository": "https://github.com/RegisFrey/YarnAce.git",
+  "author": "Regis Frey <RegisFrey@Darkfirestudios.com>",
+  "license": "MIT"
+}
