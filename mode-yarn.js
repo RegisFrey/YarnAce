@@ -1,12 +1,12 @@
 define("ace/mode/yarn", ["require", "exports", "module", "ace/lib/oop",
   "ace/mode/text", "ace/mode/text_highlight_rules", "ace/mode/behaviour"
-], function(require, exports, module) {
+], function(acequire, exports, module) {
   "use strict";
 
-  var oop = require("../lib/oop");
-  var TextMode = require("./text").Mode;
-  var TextHighlightRules = require("./text_highlight_rules").TextHighlightRules;
-  var Behaviour = require("./behaviour").Behaviour;
+  var oop = acequire("../lib/oop");
+  var TextMode = acequire("./text").Mode;
+  var TextHighlightRules = acequire("./text_highlight_rules").TextHighlightRules;
+  var Behaviour = acequire("./behaviour").Behaviour;
 
   var YarnHighlightRules = function() {
 
